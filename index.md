@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Björn Ellensohn's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Björn Ellensohn
+Student Researcher, Data Scientist, Maker
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="bjoern.ellensohn@gmail.com">bjoern.ellensohn@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -27,65 +27,43 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`October 2014 - now`
+__Montanuniversität Leoben__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`October 2005 - July 2013`
+__BRG Viktring, Klagenfurt__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Highschool Graduate
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=woMbY1sAAAAJ) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2020`
+Calibration and Registration Methods for a Condition Monitoring Multi-Sensor System
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`October 2018 - now`
+__eSENSEial Data Science__, Leoben
 
-- Warden
-- Minted coins
+- Junior Data Scientist
+- Project Leader
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`January 2016 - March 2018`
+__AT&S AG__, Leoben
+
+- Production Employee
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2023 -->
 
 
